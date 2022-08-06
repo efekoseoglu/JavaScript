@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Efe Köseoğlu",
+        "department":"Bilişim",
+        "salary" : 3500
+    },
+    {
+        "name":"Şafak Köseoğlu",
+        "department":"Bilişim",
+        "salary" : 4000
+    },
+    {
+        "name":"Serpil Köseoğlu",
+        "department":"Pazarlama",
+        "salary" : 5000
+    }
+
+
+
+]
